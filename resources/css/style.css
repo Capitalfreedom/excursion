@@ -1,0 +1,23 @@
+
+html {
+  background-color: black;
+  background-position: center;
+}
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.display {
+align-content: center;
+
+}
