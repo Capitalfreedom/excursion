@@ -24,20 +24,20 @@ h3 {
 
 p {
   font-family: verdana;
-  color: grey;
+  color: Aquamarine;
   font-size: 16px;
   text-align: center;
 }
 
 video {
   object-fit: contain;
-}
 
 .cta {
-    color: Aquamarine;
-    font-size: 16px;
-  }
+  color: Aquamarine;
+  font-size: 16px;
+}
 
 .footer {
+  color: grey;
   text-align: right;
 }
